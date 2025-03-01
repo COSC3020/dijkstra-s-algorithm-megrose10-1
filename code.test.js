@@ -17,7 +17,7 @@ function test() {
         C: {A: 2, B: 1}
     };
     let res1 = dijkstra(adjListGraph, 'A');
-    assert.deepStrictEqual(res1, {A: 0, B: 4, C: 2});
+    assert.deepStrictEqual(res1, {A: 0, B: 3, C: 2});
 
     let adjListGraph2 = {
         A: {B: 6, C: 1},
