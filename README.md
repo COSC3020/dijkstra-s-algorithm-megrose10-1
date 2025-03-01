@@ -28,4 +28,6 @@ I certify that I have listed all sources used to complete this exercise, includi
 What is the big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
 
+At the start, we go through each vertex to initialize dist and visted, marking all distances as Infinity and all vertices as false, unvisited, which this takes O(V). We also set the source node’s distance to zero after. Next, we enter the while loop, which keeps going until all vertices are true, visited, which this would cause it to run O(V). Inside this while loop, there is a for loop that checks all the vertices to find the one with the smallest distance, again this checks each vertex so would be O(V), making both the nested for loop and while loop O(V^2). After this, we look at each edge connected to the vertex we are looking at currently to update the distance, which looking at each edge is O(E). In conclusion, the time complexity is $\Theta$(V^2 + E). The first O(V) was taken off since this is a constant factor, and shouldn't affect the big $\Theta$ complexity.
+
 
