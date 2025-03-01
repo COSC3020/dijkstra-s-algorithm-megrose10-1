@@ -19,7 +19,7 @@ The choice of data structures is up to you -- your implementation does not have
 to be the most efficient one, but please make sure that it is not unnecessarily
 inefficient.
 
-I have used the lecture slides and videos from graphing, I also https://www.geeksforgeeks.org/objects-in-javascript/ to read more on objects. I referenced the graph representations test code and lilybrongo's test code. For more understanding, I used https://www.geeksforgeeks.org/what-is-the-role-of-assert-in-node-js/ to understand the assert. TO understand the deepStrictEqual I looked at https://www.w3schools.com/nodejs/met_assert_deepstrictequal.asp . Helped find how to automate test https://www.youtube.com/watch?v=uFcXrWT4f80 .
+I have used the lecture slides and videos from graphing, I also https://www.geeksforgeeks.org/objects-in-javascript/ to read more on objects. I referenced the graph representations test code and lilybrongo's test code. For more understanding, I used https://www.geeksforgeeks.org/what-is-the-role-of-assert-in-node-js/ to understand the assert. TO understand the deepStrictEqual I looked at https://www.w3schools.com/nodejs/met_assert_deepstrictequal.asp . Helped find how to automate test https://www.youtube.com/watch?v=uFcXrWT4f80 ..
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
