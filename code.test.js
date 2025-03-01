@@ -3,7 +3,7 @@
 //to understand the assert. 
 //TO understand the deepStrictEqual I looked at 
 // https://www.w3schools.com/nodejs/met_assert_deepstrictequal.asp .
-//Helped find how to automate test https://www.youtube.com/watch?v=uFcXrWT4f80
+//Helped find how to automate test https://www.youtube.com/watch?v=uFcXrWT4f80 .
 const fs = require('fs');
 const jsc = require('jsverify');
 const assert = require('assert');
