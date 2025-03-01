@@ -45,7 +45,7 @@ function test() {
     let res4 = dijkstra(adjListGraph4, 'C');
     assert.deepStrictEqual(res4, {A: 1, B: 2, C: 0, D: 1});
     let res5 = dijkstra(adjListGraph4, 'A');
-    assert.deepStrictEqual(res5, {A: 0, B: 5, C: 1, D: 2})
+    assert.deepStrictEqual(res5, {A: 0, B: 3, C: 1, D: 2})
 
 }
 
