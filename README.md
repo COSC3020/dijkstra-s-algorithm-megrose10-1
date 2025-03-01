@@ -19,7 +19,7 @@ The choice of data structures is up to you -- your implementation does not have
 to be the most efficient one, but please make sure that it is not unnecessarily
 inefficient.
 
-I have used the lecture slides and videos, I also https://www.geeksforgeeks.org/objects-in-javascript/ to read more on objects. 
+I have used the lecture slides and videos, I also https://www.geeksforgeeks.org/objects-in-javascript/ to read more on objects. I also referenced lilybrongo's test code, to understand a way I could test my own code. 
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
